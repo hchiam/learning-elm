@@ -19,5 +19,5 @@ elm reactor # runs http://localhost:8000
 elm make src/Main.elm # creates HTML file
 elm make src/Main.elm --optimize --output=elm.js # creates JS file
 elm install elm/http # adds dependency to elm.json
-elm repl # to write code within the CLI
+elm repl # to write code within the CLI (leave it with Ctrl+D or :exit)
 ```
