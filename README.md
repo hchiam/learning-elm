@@ -11,3 +11,13 @@ It's a [functional programming](https://en.wiktionary.org/wiki/functional_progra
 https://guide.elm-lang.org
 
 Install `elm`: https://guide.elm-lang.org/install/elm.html
+
+```sh
+elm --help # reminders
+elm init # creates elm.json and src folder
+elm reactor # runs http://localhost:8000
+elm make src/Main.elm # creates HTML file
+elm make src/Main.elm --optimize --output=elm.js # creates JS file
+elm install elm/http # adds dependency to elm.json
+elm repl # to write code within the CLI
+```
