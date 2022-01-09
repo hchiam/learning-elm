@@ -9,3 +9,5 @@ You can try it out on a small part of an existing project; have it control an HT
 It's a [functional programming](https://en.wiktionary.org/wiki/functional_programming) language.
 
 https://guide.elm-lang.org
+
+Install `elm`: https://guide.elm-lang.org/install/elm.html
